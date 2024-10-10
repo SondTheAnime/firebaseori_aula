@@ -1,5 +1,3 @@
-// src/pages/dashboard.js
-
 import React from 'react';
 import { View, Text, Button, StyleSheet } from 'react-native';
 import { signOut } from 'firebase/auth'; 
@@ -38,6 +36,6 @@ const styles = StyleSheet.create({
  24,
     fontWeight: 'bold',   
 
-    marginBottom: 20, // Adicionei uma margem inferior para separar o título do botão
+    marginBottom: 20, 
   },
 });
