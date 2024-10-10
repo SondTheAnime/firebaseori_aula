@@ -8,13 +8,13 @@ import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD-3E2T-wYdZ0l-jNR7DVyQkbuGlt34K9E",
-  authDomain: "positivaerp.firebaseapp.com",
-  projectId: "positivaerp",
-  storageBucket: "positivaerp.appspot.com",
-  messagingSenderId: "850832852167",
-  appId: "1:850832852167:web:242c0d2e9bcf756cb2aae2",
-  measurementId: "G-JBJM4Y932T"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
